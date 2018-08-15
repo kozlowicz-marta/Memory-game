@@ -1,5 +1,6 @@
 # MemoryGame
 
+A simple memory game written in JavaScript.
 
 ## Technologies used in this project:
 * HTML
